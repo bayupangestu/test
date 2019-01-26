@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Pendaftaran</string>
+
+    <string-array name="agama">
+        <item>Islam</item>
+        <item>Katholik</item>
+        <item>Protestan</item>
+        <item>Budha</item>
+        <item>Hindu</item>
+        <item>Kepercayaan</item>
+        <item>Lain-lain</item>
+    </string-array>
+    <string-array name="jaket">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>3XL</item>
+        <item>4XL</item>
+        <item>5XL</item>
+        <item>6XL</item>
+        <item>7XL</item>
+    </string-array>
+    <string-array name="pilihan">
+        <item>Silahkan Pilih</item>
+        <item>Teknik Industri</item>
+        <item>Teknik Informatika</item>
+        <item>Teknik Elektro</item>
+        <item>Biologi (Biotek)</item>
+        <item>Teknologi Pangan</item>
+        <item>Gizi</item>
+        <item>Manajemen</item>
+        <item>Akuntansi</item>
+        <item>Akuntansi (Kelas Sore)</item>
+        <item>Sastra Arab</item>
+        <item>Sastra Tiongkok</item>
+        <item>Sastra Inggris</item>
+        <item>Sastra Jepang</item>
+        <item>Bimbingan Konseling Islam</item>
+        <item>Pendidikan Agama Islam</item>
+        <item>Psikologi</item>
+        <item>PG PAUD</item>
+        <item>Ilmu Hukum</item>
+        <item>Magister Ilmu Hukum</item>
+        <item>Hubungan Internasional</item>
+        <item>Ilmu Komunikasi</item>
+    </string-array>
+
+    <string-array name="masuk">
+        <item>Test Seleksi</item>
+        <item>Unggulan</item>
+        <item>PMDK</item>
+        <item>PMDK Prestasi Kelas</item>
+        <item>PMDK Prestasi Seni dan Olah Raga</item>
+        <item>PMDK OSIS</item>
+        <item>Putra/i Guru/Karyawan YPI</item>
+        <item>Putra/i Guru/Karyawan UAI</item>
+        <item>Putra/i TNI/Polri non Perwira</item>
+        <item>Putra/i Guru Non Sekolah YPI</item>
+        <item>Alumni UAI</item>
+        <item>SMAI Al Azhar</item>
+        <item>Guru Al Azhar</item>
+        <item>Bagi calon mahasiswa yang memiliki saudara kandung kuliah di UAI</item>
+        <item>Bagi calon mahasiswa yang tidak memiliki ayah (yatim)</item>
+        <item>Test Pindahan</item>
+        <item>Pindahan D3</item>
+        <item>OSC Metro TV</item>
+    </string-array>
+    <string-array name="tahun">
+        <item>2019</item>
+        <item>2018</item>
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+        <item>2014</item>
+        <item>2013</item>
+        <item>2010</item>
+        <item>2009</item>
+    </string-array>
+    <string name="invalid_confirm_email">Email does not match</string>
+    <string name="invalid_password">Please enter a valid password</string>
+    <string name="invalid_confirm_password">Password does not match</string>
+    <string name="title_activity_sidemenu">sidemenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_side_menu">SideMenu</string>
+
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/halamanutama"
+            android:icon="@drawable/ic_home"
+            android:title="Halaman Utama" />
+        <item
+            android:id="@+id/formulirpendaftaran"
+            android:icon="@drawable/ic_account"
+            android:title="Formulir Pendaftaran" />
+        <item
+            android:id="@+id/biayaperkuliahan"
+            android:icon="@drawable/ic_money"
+            android:title="Biaya Perkuliahan" />
+        <item
+            android:id="@+id/potonganbiaya"
+            android:icon="@drawable/ic_star"
+            android:title="Potongan Biaya" />
+        <item
+            android:id="@+id/jalurmasuk"
+            android:icon="@drawable/ic_input"
+            android:title="Jalur Masuk" />
+        <item
+            android:id="@+id/faq"
+            android:icon="@drawable/ic_info"
+            android:title="FAQ" />
+    </group>
+</menu>
